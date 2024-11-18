@@ -1,0 +1,1 @@
+C:\Users\maria\OneDrive\Documentos\Curso Etec\D.S II\AppHotel\AppHotel\obj\Debug\net9.0-windows10.0.19041.0\AppHotel.csproj.AssemblyReference.cache
